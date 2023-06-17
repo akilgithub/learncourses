@@ -1,0 +1,23 @@
+front end 
+>>Html5,css3,bootstrap4,javascript,type script,jqurey
+
+>>react,angular,
+>>mern Stack(mongo db,express.js,react js,node.js)
+backend
+>>core java,adv java,spring boot,microservices,cloud,kafkha,
+
+devoops
+>>jenkins,kuqbernites,git bucket,git,bambo,docker
+
+>>sonarqube,jmater,putty,winscp
+
+database
+>>mysql,oracle,db2,postsql,monodb,sql server
+>>sql,plsql
+>>sql devloper,toad for oracle,monogo compass
+
+project tools
+>>jira,confluence,swagger,postman,
+
+ide
+>>intellij,eclipse,brackets,vs code
