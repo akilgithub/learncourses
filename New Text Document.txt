@@ -21,3 +21,12 @@ project tools
 
 ide
 >>intellij,eclipse,brackets,vs code
+
+30-06-2023
+___________
+basic concepts in java
+data types,multitreading,strings
+
+01-07-2023
+___________
+basics in html,css complete
