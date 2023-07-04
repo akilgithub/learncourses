@@ -35,3 +35,15 @@ and javascript basics
 02-07-2023
 ____________
 remaing and concepts after springboot concept
+
+03-07-2023
+____________
+basics html and css javascript
+
+04-07-2023
+___________
+basics in reactjs and normal other things
+
+05-07-2023
+___________
+complete the spring,springboot basic concepts
