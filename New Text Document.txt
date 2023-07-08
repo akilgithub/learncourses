@@ -55,3 +55,4 @@ basics concepts of springboot
 08-07-2023 Akhil starting his practise
 ___________
 revising the java collection concept and springboot topics 
+springboot annotations link: https://chat.openai.com/share/f9e8edd3-fd83-4774-b195-ac44b2c53882
