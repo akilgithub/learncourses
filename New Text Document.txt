@@ -47,3 +47,11 @@ basics in reactjs and normal other things
 05-07-2023
 ___________
 complete the spring,springboot basic concepts
+
+06-07-2023 & 07-07-2023
+_____________________
+basics concepts of springboot 
+
+08-07-2023
+___________
+revising the java collection concept and springboot topics 
