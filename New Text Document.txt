@@ -56,3 +56,7 @@ basics concepts of springboot
 ___________
 revising the java collection concept and springboot topics 
 springboot annotations link: https://chat.openai.com/share/f9e8edd3-fd83-4774-b195-ac44b2c53882
+
+10-07-2023
+__________
+today pending concepts revision depthstudy in springboot concepts
