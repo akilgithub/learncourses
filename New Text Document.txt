@@ -60,3 +60,7 @@ springboot annotations link: https://chat.openai.com/share/f9e8edd3-fd83-4774-b1
 10-07-2023
 __________
 today pending concepts revision depthstudy in springboot concepts
+
+12-07-2023
+__________
+i have an interview on tommorrow and prepare well and after i will practise that questions
