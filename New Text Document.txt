@@ -78,3 +78,17 @@ today is waste of time thinking for the job thoughts
 __________
 practice all the core topics with examples
 
+16-07-2023 & 17-07-2023
+_______________________
+waste of time with enjoying my self
+
+18-07-2023
+__________
+staring point to practise the java topics 
+1)jvm,data types,looping statements 
+2)exception handling,multi threading,Strings
+3)collections,file handling
+4)practice every scenario of each example in the java fully...
+
+
+
