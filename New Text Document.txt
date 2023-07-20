@@ -82,13 +82,18 @@ practice all the core topics with examples
 _______________________
 waste of time with enjoying my self
 
-18-07-2023
-__________
+18-07-2023 && 19-07-2023
+________________________
 staring point to practise the java topics 
 1)jvm,data types,looping statements 
 2)exception handling,multi threading,Strings
 3)collections,file handling
 4)practice every scenario of each example in the java fully...
+
+20-07-2023
+__________
+practising the java core concepts it take large time and getting all the concepts
+
 
 
 
