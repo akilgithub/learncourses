@@ -94,6 +94,9 @@ staring point to practise the java topics
 __________
 practising the java core concepts it take large time and getting all the concepts
 
+21-07-2023
+___________
+core java concepts practices
 
 
 
