@@ -105,7 +105,9 @@ Interview given and sunday normal study
 __________
 practice the core java with perfection and microservices basic concepts
 
-
+25-07-2023 & 26-07-2023
+_______________________
+collection concept practice and theory review.
 
 
 
