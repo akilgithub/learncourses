@@ -109,5 +109,20 @@ practice the core java with perfection and microservices basic concepts
 _______________________
 collection concept practice and theory review.
 
+27-07-2023  && 28-07-2023
+________________________
+completed the collections
+
+29-07-2023
+__________
+Strings and Exception handling
+30-07-2023
+__________
+Multithreading concepts
+31-07-2023
+__________
+Multithreading concepts and Exception handling 
+
+
 
 
