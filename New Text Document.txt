@@ -123,6 +123,14 @@ Multithreading concepts
 __________
 Multithreading concepts and Exception handling 
 
+01-08-2023
+__________
+Multithreading concepts innerclasses
+
+02-08-2023
+__________
+Remaing core java concepts ....after Springboot framework concepts
+
 
 
 
