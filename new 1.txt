@@ -1,1 +1,29 @@
-akhil kumar vunna
+
+  Map<Integer,String> map=new HashMap();
+  map.put(1,"a");
+  map.put(2,"b");
+  map.put(3,"c");
+  map.put(2,"d");
+  map.put(null,null);
+  map.put(4,"null");
+  
+  Set set=map.entrySet();
+  Iterator i=set.iterator();
+  while(i.hasNext()){
+  Map.Entry entry=(Map.Entry)i.next();
+  System.out.println(i.getKey()+""+i.getValue());
+  }
+ 
+  
+  class A extends RunException{
+  
+  
+  public void ab() throws Exception{
+  
+  
+    }
+  }
+  
+  function c=(a,b)->a+b;
+  select * from employee ORDER BY salary(MAX);
+ 

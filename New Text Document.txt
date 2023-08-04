@@ -129,8 +129,18 @@ Multithreading concepts innerclasses
 
 02-08-2023
 __________
-Remaing core java concepts ....after Springboot framework concepts
+Interview today after Remaing core java concepts ....after Springboot framework concepts
 
+03-08-2023&&04-08-2023
+______________________
+https://india.recruit.net/search.html?query=Java+Developer&location=&s=
+Recruit.netRecruit.net
+Java Developer  Jobs In India   | Recruit.net
+Hundreds of positions at ibm, tcscom and concentrix catalyst including Software Engineer, Application Developer, Web Developer related to Java Developer...
 
+wasting time these two days concentrating the core java with depth knowledge
+05-08-2023
+__________
+full revision each and every topic of core java
 
 
