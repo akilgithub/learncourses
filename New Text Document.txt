@@ -160,6 +160,19 @@ waste of time and little of bit small concepts revision missed an interview sche
 __________
 Springboot concepts and core java main concepts
 
+12-08-2023(https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+__________
+today learning hackerrank questions practise of coding and springboot questions
 
+13-08 to 16-08-2023 
+___________________
+practising the java 8 features and hackerrank understanding of problem solving
 
+17-08-2023 &&18-08-2023
+_______________________
+more practice and understand the java concepts
+
+19-08-2023
+__________
+one interview and practise of interview questions
 
