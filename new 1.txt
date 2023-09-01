@@ -27,3 +27,18 @@
   function c=(a,b)->a+b;
   select * from employee ORDER BY salary(MAX);
  
+ 
+ 
+ 
+ import java.util.*;
+
+class HelloWorld {
+    public static void main(String[] args) {
+        List<String> l=new ArrayList();
+        l.add("chetan");
+        l.add("java");
+        l.add("akhil");
+    long count = l.stream().filter(str->str.length()>3).count();
+        System.out.println(count);
+    }
+}

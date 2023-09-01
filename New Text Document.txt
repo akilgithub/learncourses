@@ -187,6 +187,12 @@ learn and concentrate on my subject of interview purposes
 23-08 to 28-08-2023
 ___________________
 learning inner and normal of some questions and others
-24-08-2023
+29-08-2023
 __________
 complete basic all features of java total and springboot
+31-08-2023
+__________
+rescheduled interview preparation and after learning those question and answers
+ 01-09-2023
+___________
+spring data jpa and core java revison 
