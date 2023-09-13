@@ -1,5 +1,8 @@
 
-  Map<Integer,String> map=new HashMap();
+1st interview
+++==++===+++
+  
+Map<Integer,String> map=new HashMap();
   map.put(1,"a");
   map.put(2,"b");
   map.put(3,"c");
@@ -29,7 +32,10 @@
  
  
  
- 
+ 2nd interview
+++====+++===+++
+
+
  import java.util.*;
 
 class HelloWorld {
@@ -42,3 +48,37 @@ class HelloWorld {
         System.out.println(count);
     }
 }
+
+
+3Rd interview
+++==++==++==
+Manikandan B15:11
+public class Main {
+		public static void main(String[] args) {
+			int[] array = new int[]{1, 2, 3, 4,6};
+			int[] evens = getOdds(array);
+			System.out.println(evens[0] + " " + evens[1]);
+		}
+
+		public static int[] getOdds(int[] array) {
+			int evenOne = 0;
+			int evenSecond = 0;
+        for (int i = 0; i < array.length; ++i) {
+if (evenOne == 0 && array[i] % 2 == 0) {
+                evenOne = array[i];
+            } else if (evenSecond == 0 && array[i] % 2 == 0) {
+                evenSecond = array[i];
+            } else if (evenOne != 0 && evenSecond != 0) {
+                return new int[]{evenSecond, evenOne};
+            }
+        }
+
+        return new int[]{evenOne, evenSecond};
+    }
+}
+You15:13
+1  2
+Manikandan B15:27
+Input : -5, 4, 3, -4, 6
+Output : -5, -4, 4, 3, 6
+VUNNA AKHIL KUMAR_Java + Microservices_12Sep23(Tues)_3:00PM
