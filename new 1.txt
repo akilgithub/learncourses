@@ -82,3 +82,26 @@ Manikandan B15:27
 Input : -5, 4, 3, -4, 6
 Output : -5, -4, 4, 3, 6
 VUNNA AKHIL KUMAR_Java + Microservices_12Sep23(Tues)_3:00PM
+
+4th Interview
+++==++==++===
+print the in b/w of [] string values
+
+class StringSplit{
+public static void main(String[] args){
+  String s="abcdef[ghijklm]nopq";
+  
+  s.subString(6,14);
+  
+  for(int i=0;i<s.length();i++)
+  {
+    if(s.char[i]
+  
+  
+ }
+}
+
+5th Interview
+==+++==+++==++
+l.stream().filter(a->{a.age<25}).map(a->a.age&&a.name).forEach(System.out::println);  
+
