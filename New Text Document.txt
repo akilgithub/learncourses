@@ -244,4 +244,10 @@ Waste the time learning same skills of java but no growth is there carefully pla
 23-09-2023
 __________
 Spring concepts and practice
+24&25&26-09-2023
+________________
+Springboot in documentation reading and then some concepts practise
 
+27-08-2023
+__________
+core java total revision with examples
