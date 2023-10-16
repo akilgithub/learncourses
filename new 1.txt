@@ -105,3 +105,75 @@ public static void main(String[] args){
 ==+++==+++==++
 l.stream().filter(a->{a.age<25}).map(a->a.age&&a.name).forEach(System.out::println);  
 
+6th Interview
+==++==++==+++==
+Map<Integer,String> map=new HashMap<>();
+   map.put(1,"A");
+   map.put(2,"B");
+   
+   Set s=map.entrySet();
+   Iterator i= s.iterator();
+   for(Map.Entry maps:map){
+   Map.Entry e=(Map.Entry)maps;
+   System.out.println(e.getKey()+" "+e.getValue());}
+   
+   map.stream().filter(
+   
+7th Interview
+==+++==++===++
+ /* how to define a string and stringBuiler,StringBuffer with proper example */
+  class DemoString{
+     public static void main(String[] args){
+	 
+       String s="read";
+	   StringBuilder sb=new StringBuilder();
+	   StringBuffer sbf=new StringBuffer();
+	   sb.reverse(s
+	       
+	  }
+	  
+	}
+   
+  /* the internal process of a map algorithm and data structure  with defined process explain */
+   
+   class DemoHashMap{
+       public static void main(String[] args){
+	   
+	   Map<Integer,String> map=new HashMap<>();
+	   map.put(1,"a");
+	   map.put(2,"b");
+	   map.put(3,"d");
+	   
+	   Set s=map.entrySet();
+	   Iterator i=s.iterator();
+	   while(i.hasNext()){
+	   Map.Entry m=(Map.Entry)i.next();
+	   System.out.println(m.getKey()+" "+m.getValue());
+	   }
+	  }
+   }	  
+   /* multithreading concept build a bank to send debiting mail dedctions programme */
+   class Bank extends Thread{
+      public trigger(){
+	    System.out.println("debiting the amount");
+	  }
+	  public void run(){
+	    
+	  }
+	  public static void main(String[] args){
+	   Bank b=new Bank();
+	   
+	  }
+	  
+  /* Given json process to convert a sorted order with respect of key to print */   
+	  {
+  "id":"123",
+  "name":"akhil",
+ "type":"VISA",
+  "bank":"ICICI",
+  "cvv":"123",
+  "expDate":"12/26"
+}
+	  map.stream().filter(e->e.getKeyComparingTo(sorted)).collect(Collectors.getKey(toString));
+	  
+
