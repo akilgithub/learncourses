@@ -165,7 +165,7 @@ Map<Integer,String> map=new HashMap<>();
 	   
 	  }
 	  
-  /* Given json process to convert a sorted order with respect of key to print */   
+  /* Given json process to convert a sorted order with respect of key to print */s   
 	  {
   "id":"123",
   "name":"akhil",
@@ -176,4 +176,41 @@ Map<Integer,String> map=new HashMap<>();
 }
 	  map.stream().filter(e->e.getKeyComparingTo(sorted)).collect(Collectors.getKey(toString));
 	  
+8th Interview
+++===+++==+++==
+/* given table change and update john as mid=101 and query for asc and dec order of table*/
+id    name    mid
+101  global   103
+102  john		103
+103	doe			101
 
+ename  mname
+global  doe
+john   doe
+doe    global
+
+select *
+from table1
+where name ="john" 
+update mid=101 ;
+
+/* write a programme print {AA,BB,CC,DD}*/s
+String a="A";
+
+for(int i=1;a.length()>i;i++){
+
+if(a.length()==
+  System.out.println(a);
+
+/* write given list of students find above age 30 and first letter as capital ones print data to database */
+	
+			List<Student> student=getAllStudent();
+			student.stream().filter(a->a<30).map(a->getUpperCase(a)
+			
+/* write a programme given string find largest word in string and find duplicates in the string*/
+    			
+			String s= "vunna akil kumar";
+			for(int i=1;i<s.length();i++){
+			 String l=s.charAt();
+			 
+			  
