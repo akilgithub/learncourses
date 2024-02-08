@@ -285,3 +285,7 @@ start newly and learn starting to java core throwout advjava cncepts and build a
 01-02-2024
 __________
 Newly started the hole java and springboot and its related concepts revision and practice
+
+08-02-2024
+__________
+java8 features video and core java concepts
